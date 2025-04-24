@@ -42,6 +42,7 @@
 
   - CNG (Cloud-Native Geospatial) Conference 2025, https://conference.cloudnativegeo.org/CNGConference2025, Snowbird, 30 April—2 May 2025
   - GeoIgnite, https://geoignite.ca/, Ottawa, 12-14 May 2025
+  - 2025 Harvard CGA Conference: The Geography of Digital Twins, https://gis.harvard.edu/event/2025-cga-conference, Cambridge, Massachusetts (and online), 22-24 May 2025
   - MDM 2025 (26th IEEE International Conference on Mobile Data Management), https://mdm2025.github.io/, Irvine, 2-5 June 2025
   - EOSUMMIT, https://www.eosummit.com/, New York, 10-11 June 2025
   - GeoEd'25, https://arcg.is/0TLLeW, Gettysburg, Pennsylvania, 17-18 June 2025
